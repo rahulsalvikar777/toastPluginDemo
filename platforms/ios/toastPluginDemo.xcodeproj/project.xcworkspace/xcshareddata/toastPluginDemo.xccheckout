@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C8218037-C8FC-4482-8126-D39CE150DA35</string>
+	<key>IDESourceControlProjectName</key>
+	<string>toastPluginDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D89CB967-887E-4E5D-93D0-CC95E98FE1B3</key>
+		<string>https://github.com/rahulsalvikar777/toastPluginDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/toastPluginDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D89CB967-887E-4E5D-93D0-CC95E98FE1B3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rahulsalvikar777/toastPluginDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D89CB967-887E-4E5D-93D0-CC95E98FE1B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D89CB967-887E-4E5D-93D0-CC95E98FE1B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>toastPluginDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
